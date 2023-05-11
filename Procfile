@@ -1,1 +1,1 @@
-release: ./releasePhasev2.sh $curl_url
+release: ./releasePhasev2.sh $curl_url $COMMIT_HASH
