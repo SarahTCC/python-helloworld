@@ -1,0 +1,1 @@
+release: ./releasePhase.sh
