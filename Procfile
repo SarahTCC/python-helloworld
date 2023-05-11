@@ -1,1 +1,1 @@
-release: ./releasePhasev2.sh
+release: ./releasePhasev2.sh $curl_url

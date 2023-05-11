@@ -1,1 +1,1 @@
-curl -X POST "https://${ENV.curl_url}"
+curl -X POST "https://${$1}"
