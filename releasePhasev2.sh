@@ -1,1 +1,2 @@
-curl -X POST "https://${$1}"
+#!/bin/bash
+echo $1
