@@ -1,3 +1,3 @@
 #!/bin/bash
-echo $3
+printf "This is a non-interpolated string"
 printf "This is $3"
