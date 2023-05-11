@@ -1,1 +1,1 @@
-release: ./releasePhase.sh
+release: ./releasePhasev2.sh
