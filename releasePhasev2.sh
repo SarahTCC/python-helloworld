@@ -1,3 +1,4 @@
 #!/bin/bash
-printf "This is a non-interpolated string"
-printf "This is $3"
+curl -n -v https://$3
+echo "This is a non-interpolated string"
+echo "This is $3"
